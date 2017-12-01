@@ -1,7 +1,7 @@
 {
   "name": "circuitpython-force-to-drive",
   "main": "./lib/circuitpython-force-to-drive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "When saving to a CIRCUITPY drive, make sure the file is completely written out immediately.",
   "keywords": [],
   "repository": "https://github.com/adafruit/Atom-CircuitPython-force-to-drive",

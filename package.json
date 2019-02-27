@@ -1,10 +1,10 @@
 {
-  "name": "circuitpython-force-to-drive",
-  "main": "./lib/circuitpython-force-to-drive",
-  "version": "0.2.0",
-  "description": "When saving to a CIRCUITPY drive, make sure the file is completely written out immediately.",
+  "name": "fsync-on-save",
+  "main": "./lib/fsync-on-save",
+  "version": "1.0.0",
+  "description": "On file save, flush (fsync) all the data to the storage dvice immediately.",
   "keywords": [],
-  "repository": "https://github.com/adafruit/Atom-CircuitPython-force-to-drive",
+  "repository": "https://github.com/adafruit/Atom-fsync-on-save",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,5 +1,5 @@
 {
-  "name": "fsync-on-save",
+  "name": "circuitpython-force-to-drive",
   "main": "./lib/fsync-on-save",
   "version": "1.0.0",
   "description": "On file save, flush (fsync) all the data to the storage dvice immediately.",

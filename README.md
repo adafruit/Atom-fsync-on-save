@@ -13,7 +13,7 @@ after the file is written.
 The original motivation for this package was to make Atom be a safe
 editor for use with [Adafruit Industries CircuitPython](https://www.adafruit.com/circuitpython).
 CircuitPython will automatically reload and restart when a file is
-written to the `CIRCUITPY` drive. `Several operating systems do not
+written to the `CIRCUITPY` drive. Several operating systems do not
 write all data and metadata to USB drives immediately. This
 delayed-write behavior can cause auto-reload to read an incompletely
 written version of the updated file (such as `main.py` or `code.py`)

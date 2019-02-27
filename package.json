@@ -1,7 +1,7 @@
 {
   "name": "fsync-on-save",
   "main": "./lib/fsync-on-save",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "On file save, flush (fsync) all the data to the storage dvice immediately.",
   "keywords": [],
   "repository": "https://github.com/adafruit/Atom-fsync-on-save",
